@@ -21,6 +21,7 @@ description:         Please see the README on GitHub at <https://github.com/toma
 
 dependencies:
 - base >= 4.7 && < 5
+- cryptonite >= 0.25 && < 1
 
 library:
   source-dirs: src

@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Haskchain
 
 main :: IO ()
 main = someFunc
